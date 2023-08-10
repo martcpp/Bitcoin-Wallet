@@ -4,7 +4,7 @@ import Language from '@/lang/langInterface'
 
 /* eslint-enable no-unused-vars */
 
-var en = <Language> {
+var Ng_pidgin = <Language> {
     // Initial page
     getting_started: 'Getting Started',
     create_new: 'Create new wallet',
@@ -112,4 +112,4 @@ var en = <Language> {
     exit_delete: 'Delete'
 }
 
-export default en
+export default Ng_pidgin
