@@ -6,21 +6,22 @@ import Language from '@/lang/langInterface'
 
 var Ng_pidgin = <Language> {
     // Initial page
-    getting_started: 'Getting Started',
-    create_new: 'Create new wallet',
-    create_subtext: "We'll create a new wallet for you so you can start using Bitcoin.",
-    restore_existing: 'Restore existing wallet',
-    restore_subtext: "You already have a wallet and want to use your recovery words to restore it.",
-    change_language: 'Change language',
-    choose_language: 'Choose Language',
+    getting_started: 'make we start',
+    create_new: 'open new wallet',
+    create_subtext: "We go open  new wallet for you so you fit begin to dey use Bitcoin.(BTC)",
+    restore_existing: 'recover wallet were you don Open before',
+        ',
+    restore_subtext: "You ben get wallet and you want  use your recovery words take get ahm back.",
+    change_language: 'Change go another language', 
+    choose_language: 'select another Language',
 
     // Create page
     seed_phrase: "Recovery Words",
-    wrote_it_down: 'I wrote it down',
+    wrote_it_down: 'I ben write ahm down somewhere ',
     generate: 'Generate',
     warning: 'Warning',
-    we_will_generate: 'We will generate for you 12 recovery words.',
-    warning_text_1: "Write the words down in the correct order, and keep them safe, offline. If you lose these words, you won't be able to access your Bitcoin.",
+    we_will_generate: 'We go help you generate 12 recovery words.',
+    warning_text_1: "Write the words them down as you take see ahm, and keep ahm well, offline. If you forget ahm you no fit get you bitcoin back again.",
     warning_text_2: "These recovery words will allow you to recover your wallet. Write the words down and keep them safe, offline.",
     write_it_down: 'Write it down',
     keep_it_safe: 'Keep it safe',
